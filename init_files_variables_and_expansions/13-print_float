@@ -1,1 +1,2 @@
 #!/bin/bash
+NUM=3.14 | echo $NUM
