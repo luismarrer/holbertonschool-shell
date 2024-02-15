@@ -1,1 +1,2 @@
 #!/bin/bash
+TRUEKNOWLEDGE='1209' | echo $TRUEKNOWLEDGE | echo $((TRUEKNOWLEDGE + 128))
